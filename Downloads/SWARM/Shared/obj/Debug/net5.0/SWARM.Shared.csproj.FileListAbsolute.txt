@@ -1,0 +1,12 @@
+/Users/jackbutera/Downloads/SWARM/Shared/bin/Debug/net5.0/SWARM.Shared.deps.json
+/Users/jackbutera/Downloads/SWARM/Shared/bin/Debug/net5.0/SWARM.Shared.dll
+/Users/jackbutera/Downloads/SWARM/Shared/bin/Debug/net5.0/ref/SWARM.Shared.dll
+/Users/jackbutera/Downloads/SWARM/Shared/bin/Debug/net5.0/SWARM.Shared.pdb
+/Users/jackbutera/Downloads/SWARM/Shared/obj/Debug/net5.0/SWARM.Shared.csproj.AssemblyReference.cache
+/Users/jackbutera/Downloads/SWARM/Shared/obj/Debug/net5.0/SWARM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackbutera/Downloads/SWARM/Shared/obj/Debug/net5.0/SWARM.Shared.AssemblyInfoInputs.cache
+/Users/jackbutera/Downloads/SWARM/Shared/obj/Debug/net5.0/SWARM.Shared.AssemblyInfo.cs
+/Users/jackbutera/Downloads/SWARM/Shared/obj/Debug/net5.0/SWARM.Shared.csproj.CoreCompileInputs.cache
+/Users/jackbutera/Downloads/SWARM/Shared/obj/Debug/net5.0/SWARM.Shared.dll
+/Users/jackbutera/Downloads/SWARM/Shared/obj/Debug/net5.0/ref/SWARM.Shared.dll
+/Users/jackbutera/Downloads/SWARM/Shared/obj/Debug/net5.0/SWARM.Shared.pdb

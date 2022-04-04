@@ -1,0 +1,12 @@
+/Users/jackbutera/Downloads/SWARM/EF/bin/Debug/net5.0/SWARM.EF.deps.json
+/Users/jackbutera/Downloads/SWARM/EF/bin/Debug/net5.0/SWARM.EF.dll
+/Users/jackbutera/Downloads/SWARM/EF/bin/Debug/net5.0/ref/SWARM.EF.dll
+/Users/jackbutera/Downloads/SWARM/EF/bin/Debug/net5.0/SWARM.EF.pdb
+/Users/jackbutera/Downloads/SWARM/EF/obj/Debug/net5.0/SWARM.EF.csproj.AssemblyReference.cache
+/Users/jackbutera/Downloads/SWARM/EF/obj/Debug/net5.0/SWARM.EF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackbutera/Downloads/SWARM/EF/obj/Debug/net5.0/SWARM.EF.AssemblyInfoInputs.cache
+/Users/jackbutera/Downloads/SWARM/EF/obj/Debug/net5.0/SWARM.EF.AssemblyInfo.cs
+/Users/jackbutera/Downloads/SWARM/EF/obj/Debug/net5.0/SWARM.EF.csproj.CoreCompileInputs.cache
+/Users/jackbutera/Downloads/SWARM/EF/obj/Debug/net5.0/SWARM.EF.dll
+/Users/jackbutera/Downloads/SWARM/EF/obj/Debug/net5.0/ref/SWARM.EF.dll
+/Users/jackbutera/Downloads/SWARM/EF/obj/Debug/net5.0/SWARM.EF.pdb
